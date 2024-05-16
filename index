@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+<style type="text/css">
+<!--
+body {
+	background-image: url(img/759714631e279d971e77307d360d53b9.jpg);
+}
+.style1 {
+	font-size: 24px;
+	font-family: "ARMY RUST", "baso sapi", "Agency FB";
+	color: #FF3333;
+}
+.style4 {font-size: 36px; color: #FFFFFF; font-family: "Copperplate Gothic Light";}
+.style5 {
+	font-family: "Comic Sans MS";
+	color: #FFFFFF;
+}
+.style6 {color: #FFFFFF}
+.style7 {font-size: 12px; color: #FFFFFF; font-family: "Copperplate Gothic Light"; }
+-->
+</style></head>
+
+<body>
+<div align="center">
+  <p class="style1">VIVIENNE WESTWOOD </p>
+</div>
+<p align="center" class="style4">NECKLACE</p>
+<p align="center" class="style7">new york's originals </p>
+<p align="center" class="style4">&nbsp;</p>
+<p align="center" class="style4">&nbsp;</p>
+<p align="center" class="style4">&nbsp;</p>
+<table width="1072" border="1">
+  <tr>
+    <td width="284" bgcolor="#000000"><div align="center"><span class="style5">HOME</span></div></td>
+    <td width="448" bgcolor="#333333"><div align="center" class="style6">SHOPPING GUIDE </div></td>
+    <td width="318" bgcolor="#333333"> <div align="center" class="style6">CATALOG</div></td>
+  </tr>
+</table>
+<table width="1070" height="241" border="1" bgcolor="#990000">
+  <tr>
+    <td width="262" height="235"><div align="center"><img src="img/OIP.jpeg" width="262" height="228" /></div></td>
+    <td width="276"><img src="img/f98fb07d587f817ee6c5aad072719797.png" width="276" height="229" /></td>
+    <td width="269"><img src="img/s-l1200.jpg" width="269" height="231" /></td>
+    <td width="234">&nbsp;</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<div align="left"></div>
+<div align="center"></div>
+<div align="center"></div>
+<p align="center" class="style4">&nbsp;</p>
+</body>
+</html>
